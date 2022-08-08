@@ -58,8 +58,6 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'htsl.urls'
 
-STATIC_URL = 'static/'
-
 TEMPLATES = [
     # Jinja and DjangoTemplate have to co-exist
     {
