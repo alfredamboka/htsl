@@ -39,4 +39,4 @@ value.
 
 -------------------------------------------------------------------------------------------------------------
 
-#### Additional infor will be updated.
+#### Additional info will be updated.
