@@ -7,7 +7,7 @@ Hypertech code base.
 
 - Python Framework >> Django
 
-- For backend development - we use VanillaJs, CSS3, and HTML5.
+- For frontend development - we use VanillaJs, CSS3, and HTML5.
 
 ## Component / Apps
 
